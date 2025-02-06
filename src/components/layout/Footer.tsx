@@ -6,7 +6,7 @@ const Footer = () => {
         <div className="grid md:grid-cols-4 gap-8">
           <div>
             <h3 className="text-xl font-bold mb-4">
-              SaaS<span className="text-accent">Pro</span>
+              Start<span className="text-accent">Up</span>
             </h3>
             <p className="text-slate-400">
               Streamline your workflow with our cutting-edge SaaS platform.
@@ -59,7 +59,7 @@ const Footer = () => {
           </div>
         </div>
         <div className="border-t border-slate-800 mt-8 pt-8 text-center text-slate-400">
-          <p>&copy; {new Date().getFullYear()} SaasPro. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} StartUp. All rights reserved.</p>
         </div>
       </div>
     </footer>

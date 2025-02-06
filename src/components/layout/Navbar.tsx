@@ -23,7 +23,7 @@ const Navbar = () => {
       <div className="container-section">
         <div className="flex items-center justify-between">
           <a href="/" className="text-2xl font-bold text-slate-900">
-            SaaS<span className="text-accent">Pro</span>
+            Start<span className="text-accent">Up</span>
           </a>
 
           {/* Desktop Menu */}
